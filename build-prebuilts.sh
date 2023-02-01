@@ -99,6 +99,7 @@ EOF
     SOONG_BINARIES=(
         acp
         aidl
+        bazel_notice_gen
         bison
         bloaty
         bpfmt
@@ -107,6 +108,7 @@ EOF
         bzip2
         ckati
         ckati_stamp_dump
+        extract_linker
         flex
         gavinhoward-bc
         go_extractor
